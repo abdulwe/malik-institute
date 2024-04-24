@@ -167,3 +167,8 @@ header{
     margin-bottom: 5px;
 }
 }
+@media(max-width: 400px){
+    #branding .highlight{
+        font-size: 14;
+    }
+}
